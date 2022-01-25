@@ -1,0 +1,611 @@
+Json;Xml;Python Programming;Database (DBMS);Python Syntax And Semantics;Basic Programming Language;Computer Programming;Data Structure;Tuple;Web Scraping;Sqlite;SQL;
+hypothesis-driven development;Product Management;Design Thinking;agile;Lean Startup;Product/Market Fit;Innovation Pipeline;agile user stories;User Experience Design (UXD);Agile Software Development;Software Development;Usability Testing;
+Debugging;Cloud Storage;Google Cloud Platform;Cloud Computing;Google Compute Engine;Google App Engine (GAE);Data Store;Application Programming Interfaces (API);Google Container Engine;
+hypothesis-driven development;Design Thinking;User Experience (UX);agile;Lean Startup;agile user stories;User Experience Design (UXD);Agile Software Development;Product Management;Software Development;Usability Testing;Continuous Delivery;
+Json;Computer Programming;Python Programming;Sorting;
+Html;JavaScript;Cascading Style Sheets (CCS);Java Programming;Html5;Algorithms;Problem Solving;String (Computer Science);Data Structure;Cryptography;Hash Table;Programming Principles;
+Software Requirements;Product Management;Scrum;agile;Project Management;Agile Software Development;Software Product Management;Software Project Management;Lean Software Development;Software Development Process;Scrum (Software Development);User Story;
+Algorithms;Dynamic Programming;Greedy Algorithm;Divide And Conquer Algorithms;Randomized Algorithm;Sorting Algorithm;Graphs;Data Structure;Hash Table;Spanning Tree;Np-Completeness;
+User Research;Affinity Diagram;human computer interaction;User Experience (UX);User Experience Design (UXD);Adobe Photoshop;
+Smart Contract;Ethereum;Blockchains;Solidity;Cryptography;Bitcoin;Cryptocurrency;Blockchain;Remix IDE;MetaMask client;Decentralized Applications;Truffle IDE;
+Spreadsheet;Microsoft Excel;Problem Solving;Project;computing;Data Management;Real World;Real-world projects;
+Programming Principles;Python Programming;Java Programming;Data Structure;Computer Programming;Python Tools;Python Syntax And Semantics;Data Science;Python Libraries;Data Analysis;Data Visualization (DataViz);Java Tools;
+Debugging;Software Testing;Algorithms;Data Structure;Computer Programming;Dynamic Programming;Binary Search Tree;Priority Queue;Hash Table;Stack (Abstract Data Type);List;Graph Theory;
+Bootstrap (Front-End Framework);Ionic (Mobile App Framework);Node.Js;Angularjs;Jquery;SASS (Stylesheet Language);Reactive Programming;Typescript;Apache Cordova;Mobile Application Development;Authentication;Mongodb;
+Matlab;Data Analysis;Object-Oriented Programming (OOP);Image Processing;Computer Programming;Problem Solving;Programming Language;
+Data Structure;Hash Table;Java Programming;Object-Oriented Programming (OOP);Algorithms;Problem Solving;String (Computer Science);Cryptography;Logic Programming;Sorting Algorithm;Trees (Data Structures);Linked List;
+Run-time Analysis;Algorithms;Hash Table;Trees (Data Structures);Object-Oriented Programming (OOP);
+no keywords
+Scala Programming;Parallel Computing;Apache Spark;Functional Programming;Recursion;Immutable Data Types;Higher-Order Function;Laziness;Type Class;Referential Transparency;Reactive Programming;Data Structure;
+no keywords
+Storyboarding;Heuristic Evaluation;R Programming;A/B Testing;Rapid Prototyping;Paper Prototyping;User Experience (UX);User Experience Design (UXD);User Interface;User Research;Persona (User Experience);Human–Computer Interaction;
+Python Syntax And Semantics;Data Structure;Tuple;Python Programming;
+Software Architecture;Java;Software Design Pattern;Object-Oriented Programming (OOP);Object-Oriented Design;Object-Oriented Analysis And Design;Unified Modeling Language (UML);Web Service;Microservices;Representational State Transfer (REST);Service-Oriented Architecture;
+Usability;User Experience (UX);User Experience Design (UXD);User Interface;
+"Jquery;web application development;Hypertext Preprocessor (PHP);JavaScript;MySQL;Html;Cascading Style Sheets (CCS);Phpmyadmin;Relational Database;SQL;Create, Read, Update And Delete;"
+Cascading Style Sheets (CCS);Html;JavaScript;SQL;Django (Web Framework);Hypertext Transfer Protocol (HTTP);Django Template Language;GET & POST;Object-Oriented Programming (OOP);Cross-Site Scripting Forgery (CSRF);User authentication;Sessions and cookies;
+Simple Algorithm;Python Programming;Problem Solving;Computation;
+Graph Theory;Number Theory;Cryptography;Probability;Mathematical Induction;Proof Theory;Discrete Mathematics;Mathematical Logic;Random Variable;Probability Interpretations;Combinatorics;Modular Exponentiation;
+no keywords
+Cryptography;Cybersecurity;Risk Assessment;Cyber Defense;Cyber Attacks;Information Security (INFOSEC);Denial-Of-Service Attack (DOS);Public-Key Cryptography;
+Collaborative Working Environment;Blockchain (Database);Open Collaboration;Access Structure;Object Binding;Alcatel Business Communications;Centurylink;Base Address;
+no keywords
+Video Game Development;Unity;video game;Game Design;technology;Game Making;
+Computer Graphics (CG);Problem Solving;Mathematics;JavaScript;Computer Programming;
+Cryptography;Cryptographic Attacks;Public-Key Cryptography;Symmetric-Key Algorithm;
+Recursion;Algorithms;Python Programming;Dynamic Programming;Programming Principles;Python Syntax And Semantics;Computer Programming;Logic Programming;Object-Oriented Programming (OOP);Combinatorics;Tree (Data Structure);Graph Theory;
+Json;Xml;Python Programming;Web Scraping;
+Psychology;Marketing;Game Design;Gamification;
+Lean Software Development;Kanban;Agile Software Development;Software Development Process;Software Development Kit (SDK);Scrum (Software Development);Application Security;Software Architecture;Software Testing;Software Design;Software Quality;
+C Programming;Compiler;Debugging;Algorithms;Programming Language Concepts;Problem Solving;
+Software Testing;Cryptography;Usability;Penetration Test;Cybersecurity;Privacy;User Interface;Fuzz Testing;Buffer Overflow;Sql Injection;Number Theory;Public-Key Cryptography;
+agile user stories;User Experience Design (UXD);Agile Software Development;Product Management;Software Development;
+Black-box Testing Techniques;White-box Testing Techniques;Unit Testing;Static Analysis;Testing Automation;Writing Test Plans;Writing Defect Reports;Understanding of Testing Theory;Writing Tests;Testing Vocabulary;Executing Tests;Software Testing;
+Interaction Design;3d computer graphics;Virtual World;Virtual Reality;
+Computer Programming;Problem Solving;Matlab;Programming Language;
+Codeskulptor;Data Analysis;Python Programming;Data Visualization (DataViz);Python Syntax And Semantics;Debugging;Tuple;List & Label;
+no keywords
+Swift 5;Application development;AppStore Purchases;Xcode;iOS App Development;
+no keywords
+Software Testing;Android Software Development;Java Programming;Junit;Logic Programming;Android Studio;Object-Oriented Programming (OOP);Computer Programming;Concurrent Computing;Unit Testing;
+HTML/CSS;Mongodb;Meteor;APIs;JavaScript;Jquery;Html;Cascading Style Sheets (CCS);Responsive Web Design;Routing;Web Development;
+no keywords
+Python Tools;Python Syntax And Semantics;Programming Principles;Python Programming;Computer Programming;
+Web Design;Web Accessibility;Html;Html5;
+Ethereum;Cryptography;Blockchains;Bitcoin;
+no keywords
+Css Code;Html;JavaScript;Cascading Style Sheets (CCS);
+Version Control;Github;Bitbucket;Command-Line Interface;
+Software-Defined Networking;Distributed Computing;Big Data;Cloud Computing;Distributed Algorithm;C++;NoSQL;Cloud Infrastructure;Cloud Applications;Cloud Storage;Graphs;Machine Learning;
+Usability;User Interface Design (UI Design);Design Theory;User Interface;User Research;Heuristic Evaluation;
+Python Programming;Database (DBMS);Sqlite;SQL;
+no keywords
+no keywords
+Deploying and scheduling bot execution;Designing automation blueprint;Creating RPA bots using Automation Anywhere;Analyzing bot data for business insights;Identifying suitable business processes for automation;Analyzing technical and financial possibilities;Problem Solving;Effort estimation of process automation;Identifying business processes for automation;Designing RPA technical specification documents;Creating RPA bots;Integrating version controls;
+Video Game Development;Unity;video game;Game Design;technology;Game Making;
+no keywords
+no keywords
+no keywords
+Dynamic Programming;Debugging;Software Testing;Algorithms;Computer Programming;
+no keywords
+Cybersecurity;Java;secure programming;C/C++;Cryptography;Authentication Methods;Identifying vulernabilities;C/C++ Programming;Java Programming;security;
+Agile Software Development;Software Product Management;Software Project Management;
+no keywords
+Scala Programming;Recursion;Functional Programming;Immutable Data Types;Higher-Order Function;
+Cybersecurity;Information Security (INFOSEC);Denial-Of-Service Attack (DOS);Risk Assessment;
+Cybersecurity;Cryptography;Information Security (INFOSEC);Cyber-Security Regulation;
+Constraint Programming;Branch And Bound;Discrete Optimization;Linear Programming (LP);
+no keywords
+Debugging;Cloud Storage;Google Cloud Platform;Cloud Computing;Google Compute Engine;Google App Engine (GAE);
+Cybersecurity;Cybercrime;Cyberwarfare;Internet Protocol (IP) Suite;
+best security practices;machine learning and big data analytics;leading platforms for IIoT development;operating systems in IIoT deployments;wireless protocols;C/C++;
+Web Development;Design;Marketing;Digital Media;Computer Science;
+Lean Software Development;Agile Software Development;Software Development Process;Scrum (Software Development);
+Inteligencia Artificial (IA);Aprendizaje Automático;Aprendizaje Profundo;Watson (Computadora);Ciencia de los Datos;
+Web Design;Style Sheets;Cascading Style Sheets (CCS);Web Development;
+Cascading Style Sheets (CCS);Html;Hypertext Transfer Protocol (HTTP);SQL;Django (Web Framework);
+Particle System;3d artist;3d modeling;Character Encoding;Video Game Development;Computer Animation;Normal Mapping;Cube Mapping;Ambient Occlusion;Color Space;Creative Coding;Graphics Pipeline;
+no keywords
+no keywords
+VSCode;ZOWE;Common Business Oriented Language (COBOL);Computer Programming;IBM Z;
+Collaborative Working Environment;Blockchain (Database);Open Collaboration;Access Structure;
+Computer Programming;Java Programming;Web Development;Java Database Connectivity (JDBC);Java Class Library;Object-Oriented Programming (OOP);Crt0;Recursively Enumerable Set;Java Compiler;Javac;Iterator;Linearity;
+Predictive Modelling;data bias;Algorithms;Ethics Of Artificial Intelligence;Machine Learning (ML) Algorithms;Understanding of algorithms;Familiarity with predictive models;Overview of ethics considersations;machine learning fairness;Ethics;Machine Learning;security;
+no keywords
+no keywords
+Cryptocurrency;Blockchain;Solidity;Smart Contract;Remix IDE;
+Mathematical Induction;Proof Theory;Discrete Mathematics;Mathematical Logic;
+Writing Test Plans;Writing Defect Reports;Understanding of Testing Theory;Writing Tests;Testing Vocabulary;
+Internet Of Things (IOT);Microcontroller;Embedded System Design;Wireshark;
+Software Development;Product Management;Agile Software Development;
+Hypertext Preprocessor (PHP);Html;Cascading Style Sheets (CCS);
+agile product management;Agile Software Development;backlog management;Kanban;XP;
+Database (DB) Design;Entity–Relationship (E-R) Model;Database (DBMS);SQL;
+Algorithms;Programming Language Concepts;Problem Solving;C Programming;
+Logic Programming;Java Programming;Object-Oriented Programming (OOP);Sorting Algorithm;
+Bigquery;Internet Of Things (IOT);Cloud Computing;Communications Protocol;
+no keywords
+Data Science;Database (DBMS);Relational Database;MySQL;SQL;
+Unit Testing;JavaScript;Angularjs;Web Development;
+Cryptosystem;Cryptographic Hash Function (CRHF);Modular Exponentiation;
+no keywords
+Agile Software Development;User Story;Software Requirements;Use Case;
+no keywords
+no keywords
+Contiki;Freertos;Scheduling Algorithms;Scheduling (Computing);Real-Time Operating System (RTOS);
+no keywords
+Load Balancing;Google;Google Cloud Platform;Cloud Computing;
+no keywords
+Hypertext Transfer Protocol (HTTP);Servlets;Cloud Services;Web Application;Java Spring Framework;
+no keywords
+Software;Python Programming;Visual Studio Code;games;Computer Programming;
+Software Development;Agile Management;Program Evaluation And Review Technique (PERT);Agile Software Development;
+Codeskulptor;Python Syntax And Semantics;Python Programming;Debugging;
+Computer Science;Quantum Computing;Python Programming;Qiskit;
+Dataflow;Parallel Computing;Java Concurrency;Data Parallelism;
+Web Development;Python Programming;Application development;Software Development;Computer Programming;
+Monetization Strategy;A/B/n testing;Customer Retention;KPIs OKRs North Stars;OODA Loops;
+Django Template Language;GET & POST;Object-Oriented Programming (OOP);Cross-Site Scripting Forgery (CSRF);Django (Web Framework);
+Logic Programming;Android Studio;Java Programming;Object-Oriented Programming (OOP);
+Distributed Computing;Computer Architecture;Openmp;Parallel Computing;
+C Sharp (C#) (Programming Language);Unity (User Interface);Game Design;
+no keywords
+no keywords
+Binary Search Tree;Priority Queue;Hash Table;Stack (Abstract Data Type);List;
+Cybersecurity;Usability;Privacy;User Interface;
+Persistence;iOS App Development;Xcode;Swift (Programming Language);Syntax;Computer Programming;Core Data;User Interface;
+User Research;Affinity Diagram;human computer interaction;User Experience (UX);
+Remote Backup Service;Cloud Computing;Azure;Architect Cloud Network;
+no keywords
+no keywords
+no keywords
+no keywords
+contextual assistants;Python Programming;chatbot development;rasa;Chatterbot;
+Software Design;Microservices;Reactive Programming;Cloud Computing;Distributed Computing;
+Document Object Model (DOM);JavaScript;Web Development;
+Software Development Kit (SDK);Agile Software Development;Scrum (Software Development);
+no keywords
+Scala Programming;Big Data;Apache Spark;SQL;
+Software Development Process;Database (DB) Design;Software Design;Software Development Lifecycle (SDLC);Security Software;
+Computer Vision;Computer Programming;Matlab;
+no keywords
+Usability;User Interface Design (UI Design);Design Theory;User Interface;
+no keywords
+Software Testing;Cybersecurity;Usability;Operating System;
+no keywords
+Team Management;Scrum (Software Development);Scrum Ceremonies;Servant Leadership;
+Data Science;Database (DB) Design;Relational Database;database administration;SQL;
+no keywords
+Cloud Storage;Data Store;Google Cloud Platform;Cloud Computing;
+no keywords
+scripting;Bash (Unix Shell);Linux;Unix;
+Arduino;C Programming;Debugging;
+Block (Programming);Python Syntax And Semantics;Computer Programming;Python Programming;
+User Interface Design (UI Design);Objective-C;Swift (Programming Language);User Interface;iOS App Development;Computer Programming;Xcode;
+Estimation Interview;Data Analysis Interview;Strategy Interview;Behavioral Interview;Product Design Interview;
+Data Science;database (DB) design;Relational Database;database administration;SQL;
+no keywords
+no keywords
+Web Development;Html;Web Application;React (Javascript Library);JavaScript;
+no keywords
+"Hypertext Preprocessor (PHP);Create, Read, Update And Delete;MySQL;"
+Computer Security Incident Management;Malware Analysis;Memory Forensics;Traffic Analysis;
+Pixel;Inequality (Mathematics);Entry Point;Modulo Operation;
+no keywords
+Software Testing;Functional Testing;Test Automation;selenium automation;
+User Research;human computer interaction;User Experience (UX);User Experience Design (UXD);
+User Interface Design (UI Design);Rapid Prototyping;User Experience (UX);Software Development;Internet Of Things (IOT);UX and user research;UX and UI design;UX verification and validation;Project planning and analysis;Design of embedded devices;Qt and HTML Interfaces;cloud connected systems;
+no keywords
+Concurrency (Computer Science);Actor Model;Optimistic Concurrency Control;Java Concurrency;
+no keywords
+Fuzz Testing;Buffer Overflow;Sql Injection;Penetration Test;
+Internet Of Things (IOT);Debugging;Real-Time Operating System (RTOS);
+Game Engine;Autodesk 3ds Max;Gameplay;Game Design;Computer Programming;Video Game Development;Video Game Design;User Interface;
+Html;web application development;Ajax (Programming);Representational State Transfer (REST);JavaScript;
+DDoS attacks and defenses;Cloud Computing Security;Security and Privacy in Tor network;geolocation-based access control;Attribute-Based Access Control;
+no keywords
+Cybersecurity;Cryptography;Public-Key Cryptography;
+User authentication;Sessions and cookies;One-to-Many models;Data Validation;Django (Web Framework);
+Cryptography;Entropy (Information Theory);
+Computer Programming;Web Programming;Java;mobile programming;Familiarality with computer programming.;switch statements;For Loop;if-then;Java Programming;ploymorphism;Windows Programming;Web;
+no keywords
+Interactive control;Android App Development;Opengl for Embedded Systems (OPENGL ES);3d computer graphics;Virtual Reality;Android Studio;2d computer graphics;Android;Opengl++;VR;Sensors;Textures;
+no keywords
+Graph Theory;Graphs;Graph Algorithms;
+test automation framework;Software Testing;Framework developement;Selenium;Selenium with Java and TestNG;
+Object-Oriented Programming (OOP);coding;C++;Computer Programming;Cpp Programming language;
+no keywords
+no keywords
+Random Variable;Probability Interpretations;Probability;Combinatorics;
+Constraint Programming;Problem Solving;Mathematical Model;Discrete Optimization;
+no keywords
+no keywords
+no keywords
+no keywords
+Java Database Connectivity (JDBC);Java Class Library;Java Programming;Object-Oriented Programming (OOP);Computer Programming;
+Agile Software Development;Software Product Management;Software Project Management;Scrum (Software Development);
+no keywords
+no keywords
+no keywords
+3d modeling;Video Game Development;Computer Animation;Normal Mapping;
+Trees (Data Structures);Data Structure;Linked List;Binary Tree;
+Bootstrap (Front-End Framework);Responsive Web Design;JavaScript;Cascading Style Sheets (CCS);
+Laziness;Type Class;Functional Programming;Referential Transparency;Reactive Programming;
+Tuple;Python Programming;Debugging;List & Label;
+"Artificial Neural Network;Tensorflow;Extraction, Transformation And Loading (ETL);Data Pipelines;TensorFlow Datasets;"
+Application Programming Interfaces (API);Google Cloud Platform;Cloud Computing;
+no keywords
+no keywords
+Hyperledger;Microsoft Azure;Blockchain Platforms;Grid+;Augur;
+no keywords
+Software Development Process;Database (DBMS);Web;Java Spring Framework;Java Programming;
+no keywords
+Software Testing;Web Accessibility;Html;Cascading Style Sheets (CCS);
+Computer Programming;Python Programming;Internet Of Things (IOT);Raspberry Pi;
+Distributed Computing;Actor Model;Parallel Computing;Reactive Programming;
+Html;Web Page;Web Development;
+Algorithms;Competitive Programming;
+Debugging;Problem Solving;Java Programming;Data Structure;Inheritance;
+Web Design;Html;JavaScript;Cascading Style Sheets (CCS);
+Web Development;Front-End Web Development;Ecmascript;JavaScript;Computer Programming;
+Computer Programming;C Programming;coding;Programming langauge;
+3d computer graphics;Algorithms;Robotics;Computer Graphics (CG);
+Software Architecture;Architectural Pattern;Non-Functional Requirement;Software Requirements;
+TensorFlow Serving;Machine Learning;federated learning;TensorFlow Hub;TensorBoard;
+Number Theory;Cryptography;Modular Exponentiation;
+Suffix Tree;Suffix Array;Knuth–Morris–Pratt (KMP) Algorithm;Algorithms On Strings;
+Version Control;Github;Developer tools;GIT;
+Opencv;Software;Python Programming;Image Processing;Computer Programming;
+Bash (Unix Shell);Linux Console;Devops;Server Administrator;Linux File Systems;
+Bash (Unix Shell);Linux Console;Automaton;Computer Programming;Bash Scripting;
+Github;Continuous Integration;Devops;travis ci;
+Number Theory;Cryptography;Public-Key Cryptography;
+Computer Programming;Java;
+no keywords
+Responsive Web Design;Html;JavaScript;Cascading Style Sheets (CCS);
+Cascading Style Sheets (CCS);Html;Web Design;Websites;Web Page;
+Artificial Intelligence (AI);Constraint Satisfaction Problem;Backtracking;Python Programming;Search Algorithm;
+no keywords
+Programming Language (34);Google (25);Computer Program (21);Software Testing (21);Web (19);Google Cloud Platform (18);Application Programming Interfaces (17);Data Structure (16);Problem Solving (14);Object-oriented Programming (13);Kubernetes (10);List & Label (10);
+no keywords
+no keywords
+Computer Programming;Python Programming;coding;
+Mathematical Optimization;Concurrent Computing;Java Concurrency;Thread Safety;Java Programming;
+Web Development;Front And Back Ends;Web;Mobile Development;JavaScript;
+Python Programming;Linear Programming (LP);Np-Completeness;Dynamic Programming;
+Linux;Devops;Docker;Containers;
+Web Development;Marketing;Web Design;Analytics;Search Engine Optimization (SEO);
+Computer Science;Computer Programming;Python Programming;
+Devops;Software Product Management;Scrum;agile;Project Management;
+Video Game Development;Unity;Game Design;technology;Game Making;
+Web Development;Marketing;Google Sheets;app development;Mobile Development;
+Cryptography;Authentication Methods;secure programming;
+Python Programming;Numpy;Pandas;Wxpython;
+Deep Learning;Intel OpenVINO;Python Programming;C++;Computer Vision;
+no keywords
+no keywords
+Application Security;Software Architecture;Software Testing;Software Design;Software Quality;
+User Experience (UX);Target Customer Personas;Business Intelligence;Customer Journey Map (CJM);User Interface (UI);
+Video Game Development;Python Programming;Pygame;Game Programming;Computer Programming;
+no keywords
+Python Programming;interactive fiction;text adventure;Game Design;Computer Programming;
+UX and user research;UX and UI design;UX verification and validation;Project planning and analysis;
+Functional Testing;Postman;Api Testing;API Manual Testing;
+Graphic Designing;Web Design;Vector Graphics;Web Developement;Prototype Creation;
+iOS App Development;Syntax;Computer Programming;Swift (Programming Language);
+no keywords
+no keywords
+no keywords
+no keywords
+no keywords
+no keywords
+no keywords
+no keywords
+User Research;Heuristic Evaluation;User Interface Design (UI Design);User Interface;
+Montgomery Modular Multiplication;Side-Channel Attack;Hardware Design;Cryptographic Hardware;
+Computer Programming;Database (DBMS);SQL;
+no keywords
+Data Structure;Parallel Computing;Data Parallelism;Parallel Algorithm;
+machine learning fairness;Ethics;data bias;
+Live Coding;Programming Interview;Algorithms;Problem Solving;
+Computer Language;Mobile Development;Android;Software Development;Kotlin;
+no keywords
+Cybersecurity;Wearable Devices;Internet Of Things (IOT);Wearable Technology;
+no keywords
+Software Testing;Formal Verification;Test Automation;
+Software Testing;Functional Testing;RestAssured;Api Testing;
+Deep Learning;Machine Learning;Application development;Python* Programming;Computer Vision;
+Dart (Programming Language);Web Application;Application development;Flutter;
+Functional Testing;Software Testing;BDD;Cucumber;Selenium;
+no keywords
+no keywords
+no keywords
+Information Design;User Interface Techniques;Responsive Web Design;Website Wireframe;
+no keywords
+no keywords
+Terminal;Bash;Command Line;Computer Programming;Productivity;
+Web Development;Database (DBMS);firebase;Mobile Development;JavaScript;
+no keywords
+Django (Web Framework);Postman;Representational State Transfer (REST);Django Rest Framework;
+no keywords
+no keywords
+no keywords
+Java;secure programming;Java Programming;security;
+no keywords
+no keywords
+no keywords
+Data Analysis;RShiny;Web Development;
+no keywords
+Database (DBMS);Postgresql;MySQL;SQL;database fundamentals;
+Graphs;Search Algorithm;Graph Algorithms;Graph Data Structures;
+Software As A Service (SAAS);Restaurant Business Website;Website Development;Google Sites;
+Android Studio;Java;Android;
+Computer Programming;Mobile application;Flutter;
+python dictionary;python set;Data Structure;python tuple;python list;
+User Interface;Javafx;GUI programming;Java;Software Development;
+Html;Inline JavaScript;Notepad++;External JavaScript;JavaScript;
+python classes;scripting;object oriented python;python objects;Computer Programming;
+User Experience Design (UXD);Customer Experience;User Interface (UI) Design;Problem Statements;Business Opportunities;
+no keywords
+Database (DBMS);Data Analysis;SQL;Computer Programming;Computer Science;
+Functional Testing;Azure DevOps;Source Code Management tool;Test Automation Execution;Test Automation;
+Burp Suite;Cybersecurity;Sql Injection;Penetration Test;
+Data Science;Python Programming;Pandas;Visual Studio Code;Statistics;
+Python Programming;GUI programming;Tkinter;Event (Computing);Inheritance;
+no keywords
+Eclipse;Java;Object-Oriented Programming (OOP);
+no keywords
+no keywords
+no keywords
+no keywords
+Data Structure;Algorithms;Algorithm Design;String (Computer Science);
+Computer Programming;Java;Familiarality with computer programming.;
+Data Science;Python Programming;Pandas;Seaborn;Matplotlib;
+Design Testing;User Experience Design (UXD);Design Development;User Interface (UI) Design;Sprint Methodology;
+Mongodb;APIs;Node;express;Backend Development;
+Android Studio;Android Development;Mobile Application Development;
+Attention to details;Graphic Design;UI/ UX design;
+Video Game Development;Python Programming;Pygame;Game Design;game ai;
+Microsoft Visual Studio;.NET Core;blazor;Web Development;
+VSCode;Html;local hosting;Github;Web Hosting Service (HS);
+Spring Cloud Client Application;Spring Cloud Microservice;Eureka Registry Server;Spring Cloud Config Server;GIT;
+pymongo;Database (DBMS);Mongodb;Python Programming;document storage;
+Marketing;Digital Marketing;Graphic Design;
+Software Testing;Unit Testing;Android Software Development;Junit;
+Github;Cascading Style Sheets (CCS);React;Gatsby;
+Requirements Elicitation;Requirements Analysis;Software Requirements;Requirements Engineering;
+Github;Python Programming;Git Merge;GIT;Version Control;
+no keywords
+Python Programming;Google App Engine (GAE);Flask;webdevelopment;
+Augmented Reality;Skinput;Cisco;Smartglasses;
+no keywords
+Cloud Computing Security;database management;Object Storage;Cloud Computing;
+no keywords
+no keywords
+no keywords
+no keywords
+no keywords
+no keywords
+3d computer graphics;Android Studio;2d computer graphics;Android;
+Docker;Functional Testing;selenium grid;Selenium;Test Automation;
+Application Programming Interfaces (API);Postman;Backend Development;
+Web Application;blazor;
+Training;Software As A Service (SAAS);Website Development;Google Sites;
+Rest Web Service;Inversion Of Control;Java Programming;Dependency Injection;Spring Boot;
+Web Development;Cascading Style Sheets (CCS);Style Sheet (Web Development);Html And Css;Notepad++;
+Python Programming;Model–View–Controller (MVC);Object-Oriented Programming (OOP);Django web development;
+Recursion;Python Programming;Tree (Data Structure);
+Event binding;Blazor Server;blazor;
+Linux Disk Usage;Pandas;Command Line;Python Scripting;Computer Programming;
+User Experience (UX);Customer Retention;Design Thinking;Empathy Mapping;User Interface (UI);
+Docker;Web Application;Python3 Programming;Cloud infrastructures;Web Server;
+no keywords
+Video Game Development;interactive fiction;twine;Software Development;Game Design;
+Programming Principles;Socket;Java Programming;Computer Network;Computer Science;
+Django (Web Framework);Postgresql;Postman;Multitenant Architecture;
+Functional Testing;Api Testing;JMeter Tool;
+Customer Relationship Management (CRM);User Experience Design (UXD);Target Customer Personas;Customer Journey Mapping;User Interface (UI) Design;
+Computer Programming;Javafx;Java Programming;
+Mathematical Optimization;Algorithm Design;Java;Computer Programming;Sorting;
+no keywords
+no keywords
+Video Game Development;Python Programming;Pygame;coding;Computer Programming;
+no keywords
+switch statements;For Loop;if-then;Java Programming;ploymorphism;
+Computer Programming;Windows Programming;Web;Mobile App;
+3D Art;Animation;Unity;Real-Time 3D;
+Video Game Development;Video Game Design;User Interface;Game Design;
+no keywords
+Persistence;iOS App Development;Core Data;User Interface;
+no keywords
+no keywords
+iOS App Development;Computer Programming;Xcode;Swift (Programming Language);
+no keywords
+no keywords
+no keywords
+no keywords
+Opengl++;2d computer graphics;Opengl for Embedded Systems (OPENGL ES);Android Studio;3d computer graphics;
+Video-game Development;C sharp (C#) Programming Language;Unity 3D;Unity;Application development;
+User Experience (UX);UI;Adobe;XD;
+Computer Programming;Games Development;
+Google Sheets;Email;Google Apps Script;JavaScript;Computer Programming;
+Debugging;Software Testing;Python Programming;Unit Testing;Sorting;
+Core Python Programming;Python Syntax And Semantics;Python Programming;Software Engineering;Computer Programming;
+Photography;Graphic Design;GIMP;image-editing;
+Opencv;Python Programming;Numpy;
+Web Development;Cascading Style Sheets (CCS);images;style;border;
+sprites;Video Game Development;Python Programming;Animation;Pygame;
+Computer Programming;Java;Android Development;
+C Type Casting;C Print Formatting;C Programming;C Arithmetic Operators;C Data Types;
+Data Science;Java GUI Development;Python Programming;Java;Swing (Java);
+Array Lists;Java;Arrays;jgrasp;Computer Programming;
+Web Development;GitHub Pages;Resume;Personal Webpage;GIT;
+Basic Programming Language;Python Programming;Game Programming;
+VSCode;front end;Github;Web Design;Html And Css;
+Draw;Flowcharting;Diagramming;Process (Computing);Libreoffice;
+Computer Programming;Java;jgrasp;
+For/Of Loop;Arrays;Access Array Elements;Data Structure;JavaScript;
+Email Validation;Python Regular Expression;Python Testing;Python Programming;Python File I/O;
+Web Development;browser extension;software develpment;google chrome;extension development;
+Experience Design;Business Strategy;product design;Idea Management;Project Management;
+Data Manipulation;Java;Data Structure;Computer Programming;Computer Science;
+VSCode;Web Development;Github;Html And Css;Computer Science;
+Mining Insights from Customer Data;User Experience (UX);Understanding Targeted Users;Customer Journey Mapping;Customer Persona Development;
+Strategic Planning;User Experience Design (UXD);Data-Driven Decision Making;Product Strategy;Identifying Areas for Continuous Improvements;
+Computer Programming;Swing;Java;Object-Oriented Programming (OOP);
+Selenium;Test Automation;functional tests;TestNG;
+Identifying Areas for Continuous Improvement;Business Process Management;User Experience Design (UXD);User Interface (UI) Design;Service Design;
+Brainstorming Optimization;Team Idea Generation;User Experience Design (UXD);User Interface (UI) Design;Design Thinking;
+User Experience Design (UXD);Inclusive Content;User Interface (UI) Design;Accessible Products;Customer Research;
+Node.Js;Angularjs;Typescript;Mobile Application Development;
+no keywords
+User Experience Design (UXD);Business Strategy;User Interface (UI) Design;Customer Experience Mapping;Service Optimization;
+coding;Game Design;Computer Programming;Computer Science;Scratch;
+Scalable Vector Graphics (SVG);Inkscape;Graphic Design;
+Github;R Programming;Rstudio;GIT;Version Control;
+Cascading Style Sheets (CCS);Html;Github;Bootstrap (Front-End Framework);VSCoded;
+Creativity;Vector Graphics Editor;Graphic Design;
+Software Engineering;Computer Science;Computer Programming;Python Programming;
+Functional Testing;TestNG;Automated Testing;selenium automation;Test Automation;
+Cross-Platform Development;Computer Language;Algorithm;Software Development;Kotlin;
+Cryptography;Caesar cipher;C++;encryption and decryption;
+Video Game Development;Python Programming;Pygame;Classes and objects;Computer Programming;
+Typescript;Object-Oriented Programming (OOP);JavaScript;Strong Typing;Computer Programming;
+Recursively Enumerable Set;Iterator;Linearity;Arrays;
+programming game;Pygame;Python Programming;
+Design;Figma;User Experience (UX);UI;
+Business Process Management;User Experience Design (UXD);Marketing Strategy;Identifying Areas for Continuous Improvements;Customer Loyalty Marketing;
+Recursion;Object-Oriented Programming (OOP);Java;Class Creation;Class Methods;
+Design;UI;XD;User Experience (UX);Adobe;
+Mongodb;Meteor;JavaScript;Routing;
+no keywords
+no keywords
+no keywords
+no keywords
+Usability Testing;User Research;User Experience (UX);User Interface;
+no keywords
+no keywords
+Bitcoin Network;Blockchains;Cryptocurrency;Bitcoin;
+Digital Signal Processing;Signal Processing;Python Programming;Fft Algorithms;
+no keywords
+no keywords
+Software-Defined Networking;Python Programming;Cloud Infrastructure;Cloud Computing;
+no keywords
+no keywords
+no keywords
+Animation;3d modeling;Unity;
+Design;Problem Solving;coding;Computer Programming;Computer Science;
+no keywords
+no keywords
+no keywords
+no keywords
+no keywords
+no keywords
+no keywords
+Mongodb;Meteor;JavaScript;Web Development;
+no keywords
+no keywords
+no keywords
+Creative Coding;3d artist;Graphics Pipeline;Affinity Designer;
+Data Type;JavaScript;Variables;Assignment Operators;
+no keywords
+no keywords
+Rapid Prototyping;Design of embedded devices;Qt and HTML Interfaces;UX and UI design;
+Html;html links;html images;Web Development;
+no keywords
+no keywords
+no keywords
+Database (DBMS);Python Programming;MySQL API;MySQL;Computer Programming;
+Webpack;React (Javascript Library);Software As A Service (SAAS);Typescript;
+UI;Product Owner;User Experience (UX);Project Management;Miro;
+Junit Testing;Spring MockMvc;Software Testing;Spring Boot Testing;Integration Testing (I&T);
+TestNG Testing;Functional Testing;Unit Testing;selenium automation;Test Automation;
+Web Testing;Python Testing;Selenium;Python Web Driver;Pytest;
+Dynamic Web Application;Python Programming;Server Programming;Python Web Application;Web Server;
+Class Design;Encapsulation;Object-Oriented Programming (OOP);Java;Information Hiding;
+Python Programming;Pandas;Linux Command Line;GIT;Version Control;
+Binary Tree;Algorithm Design;Python Programming;Graphs;Computer Programming;
+Java;Java Programming;Object-Oriented Programming (OOP);Application development;
+javascript syntax;Problem Solving;For Loop;Repetition Programming;
+no keywords
+Web Development;Html;HTML Tables;Form (Html);Notepad++;
+php apps;PHP database connectivity;Hypertext Preprocessor (PHP);web apps;MySQL;
+Scalable Vector Graphics (SVG);Inkscape;Graphic Design;
+Spring;Python Programming;Web Service;Java Web;Spring Boot;
+Android Software Development;Mobile App;Mobile Application Development;3d computer graphics;Virtual Reality;
+Junit5;UI automation;Functional Testing;Selenium;Test Automation;
+Web Development;Cascading Style Sheets (CCS);Html;Bootstrap (Front-End Framework);portfolio;
+Cascading Style Sheets (CCS);Html;ARIA;JavaScript;Accessibility;
+Software Development;Python Programming;Exception Handling;
+Java;Mobile Development;Persistence (Computer Science);Android;Android Studio;
+Web Design;Html;JavaScript;Cascading Style Sheets (CCS);
+User Experience (UX);UI;Adobe;XD;
+Debugging;Chrome DevTools;Breakpoint;javascript syntax;JavaScript Alert;
+Graphic Effects;Computer Software;Inkscape;Vector Graphics;Graphic Design;
+Marketing;Graphic Design;GIMP;Digital Art;
+no keywords
+Adobe Photoshop;Image Editing;Graphic Design;GIMP;
+Web Design;Web;Cascading Style Sheets (CCS);Web Development;
+Android Studio;Java;Android Development;Mobile Application Development;
+Computer Programming;Algorithms;Java;
+Java Object-Oriented Programming;Java Collections Framework;Java LinkedList;Java Data Structures;Java HashMap;
+Video Game Development;Numpy Library;Python Programming;Pygame;Game Design;
+C Arrays;C Standard Library;C Pointers;C File Processing;C Programming;
+Android Studio;Java Programming;Android;Mobile Application Development;
+scripting;inkle;ink;Game Design;Computer Programming;
+C++ Decision Constructs;Object-Oriented Programming C++;C++;C++ loops;C++ Recursion;
+Web Development;User Interface;HTML/CSS;User Experience (UX);Accessibility;
+Node.Js;Postman;Api Testing;newman;
+Authentication;Active Record Pattern;Ruby On Rails;
+Web Development;Cascading Style Sheets (CCS);Table Borders;HTML Tables;Internal Stylesheet;
+Android Studio;Java;Android;Mobile Application Development;
+Design;Accessible;UI;XD;User Experience (UX);
+Android Studio;Java Programming;Android Development;Mobile Application Development;
+Arithmetic;Order of Precedence;JavaScript Math;Modulo Operation;Increment and Decrement;
+no keywords
+Cryptography;C++;
+Opencv;Python Programming;Hough Transforms;
+no keywords
+Android Studio;Java;Android;Mobile Application Development;
+no keywords
+SCM;Test Automation;source control management;GIT;
+Video-game Development;C sharp (C#) Programming Language;Unity 3D;Unity;Application development;
+Java Exception Handling;Java For Loops;Java Arrays;Java File Processing;Java While Loops;
+Web Banner;Graphics Software;Image Quality;Ordered Pair;
+Video-game Development;C sharp (C#) Programming Language;Unity 3D;Unity;Application development;
+Web Banner;Graphics Software;Image Quality;Ordered Pair;
+Python Unit Test;Python Programming;Python Development;Test-Driven Development;Python Unit Test Visual Studio Code;
+Managing Virtual and Hybrid Teams;Team Communication;Optimizing Workflows;Project Design;Product Sprint Management;
+Android Studio;Java;Android;Mobile Application Development;
+Web Development;Cascading Style Sheets (CCS);Box Model;Positioning with CSS;Web Design;
+Decision Programming;Web Programming;If-Else;JavaScript Switch;JavaScript;
+Video-game Development;C sharp (C#) Programming Language;Unity 3D;Unity;Application development;
+Business Process Management;User Experience Design (UXD);Design Thinking;Agile Team Brainstorming;5 Whys Analysis;
+Task and Milestone Mapping;User Experience Design (UXD);Gantt Chart Visualization;Remote Teams;Project Management;
+Video-game Development;C sharp (C#) Programming Language;Unity 3D;Unity;Application development;
+Business Process Management;User Experience Design (UXD);Managing Virtual and Hybrid Teams;Experience Design;Product Developement;
+Full Stack Developer;PHP database connectivity;messenger clone;Web Design;web application development;
+User Experience Design (UXD);Managing Virtual and Hybrid Teams;Experience Design;Idea Generation;Project Design;
+Switch;Decision Logic;If Else;Java Programming;Visual Studio Code;
+3D text;text outline;filters;GIMP;text effects;
+no keywords
+no keywords
+Android Studio;Android Development;Mobile Application Development;
+Do/While Loop;JavaScript Loop;looping;While Loop;Repetition Programming;
+logic;JavaScript;Nested If;Web Development;
+no keywords
+Inkscape;Vector Graphics;Graphic Design;
+Video Game Development;Java;Swing (Java);Computer Programming;Computer Science;
+Recursively Enumerable Set;Euler'S Totient Function;Internality;Matching;
+Client-side Form Validation;HTML5 Built-in Form Validation;Javascript Methods;Data Validation;JavaScript;
+Html;Css Flex Box Layout;Practical Use Cases of Flexbox;Front End Web Development;
+Python Programming;Django development;Django QuerySet API;Object-Oriented Programming (OOP);
+Business Process Management;User Experience Design (UXD);Kanban Methodology;Service Design;Identifying Areas for Continuous Improvements;
+no keywords
+Data Type;Algorithms;Object-Oriented Programming (OOP);Java;Computer Programming;
+Computer Programming;Java;jgrasp;Inheritance;
+Focal (Hp-41);Trigonometric Integral;Persona (User Experience);User Story;
+Unit Testing;Django (Web Framework);Python Programming;Object-Oriented Programming (OOP);
+Focal (Hp-41);Persona (User Experience);User Story;Ordered Pair;
+Scala Programming;Software Development Process;Computer Languages;Cross-Platform Development;
+JavaScript replace();Javascript Methods;JavaScript search();Strings;Java Syntax;
+Abstract Classes;Abstraction;Interfaces;Java;jgrasp;
+Html;Front-End Web Development;Cascading Style Sheets (CCS);CSS3 Flexbox;
+Html;Css Flex Box Layout;Cascading Style Sheets (CCS);Front End Web Development;
+Recursively Enumerable Set;Internality;Continuous Function;Uniform Resource Locator (URL);
+Data Structure;Trigonometric Integral;Python Programming;Linearity;
+Android Studio;Sqlite;Android Development;Mobile Application Development;
+Digital Marketing;User Experience Design (UXD);User Interface (UI) Design;Service Design;Identifying Areas for Continuous Improvements;
+Sorting Arrays;JS Sort() method;Javascript Methods;Object arrays;javascript syntax;
+Merge arrays;JS Arrays;toString();JS Methods;JavaScript;
+Objects;Java;jgrasp;Methods;Classes;
+C switch constructs;C Programming;C command line;C Loop constructs;C if statemements;
+Trigonometric Integral;Python Programming;Linearity;Sorting;
+Trigonometric Integral;Python Programming;Linearity;Sorting;
+Swing;Java;Video Game Development;Object-Oriented Programming (OOP);
+Recursively Enumerable Set;Display Devices;Euler'S Totient Function;Internality;
+Python Programming;Object-Oriented Programming (OOP);Python Testing;Coverage measurement;
+Html;Cascading Style Sheets (CCS);Holy Grail Layout;Front End Web Development;
+Css Flex Box Layout;Cascading Style Sheets (CCS);Image Gallery;Front End Web Development;
+Android Studio;Android Development;Mobile Application Development;
+no keywords
